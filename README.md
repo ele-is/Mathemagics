@@ -1,2 +1,2 @@
 # Mathemagics
-Programs to train my Mathemagics skillss
+Programs to train my Mathemagics skills.
